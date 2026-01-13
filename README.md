@@ -1,5 +1,7 @@
 # Kapitza Pendulum (MATLAB) — Finite-Difference Simulation
 
+[Wikipedia page](https://en.wikipedia.org/wiki/Kapitza%27s_pendulum)
+
 Single-file MATLAB simulation of the **Kapitza pendulum** (an inverted pendulum with a vertically oscillating support).  
 The script integrates the nonlinear equation of motion using a **finite-difference (FDM) time-stepping scheme** and visualizes the dynamics with two plots:
 1) **Angle vs. time** (θ(t))  
