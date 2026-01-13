@@ -66,4 +66,5 @@ Running the script generates:
 
 ## Output Example
 
-
+![plot_1](plot_1_angle.jpg)
+![plot_2](plot_2_coordinates.jpg)
