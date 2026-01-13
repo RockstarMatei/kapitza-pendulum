@@ -1,6 +1,3 @@
-# kapitza-pendulum
-MATLAB finite-difference (FDM) simulation of the Kapitza pendulum with trajectory and angle–time plots.
-
 # Kapitza Pendulum (MATLAB) — Finite-Difference Simulation
 
 Single-file MATLAB simulation of the **Kapitza pendulum** (an inverted pendulum with a vertically oscillating support).  
